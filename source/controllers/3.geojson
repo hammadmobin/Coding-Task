@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -102.044942379,
+                            31.733076503
+                        ],
+                        [
+                            -102.048826218,
+                            31.732036252
+                        ],
+                        [
+                            -102.045650482,
+                            31.726780069
+                        ],
+                        [
+                            -102.033827305,
+                            31.728714671
+                        ],
+                        [
+                            -102.035651207,
+                            31.738660808
+                        ],
+                        [
+                            -102.04318285,
+                            31.736744663
+                        ],
+                        [
+                            -102.044942379,
+                            31.733076503
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "properties": {
+                "name": "Permian Blow Out Event",
+                "elevation": 833.0,
+                "type": "processing",
+                "operator": "Targa Resources",
+                "country": "United States",
+                "basin": "Permian Basin",
+                "production_type": "Misc",
+                "terrain": "Desert",
+                "area": 1175921.84464027
+            },
+            "id": 3,
+            "bbox": null
+        }
+    ],
+    "bbox": null
+}

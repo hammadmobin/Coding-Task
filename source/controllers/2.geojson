@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -108.403301239,
+                            36.767904694
+                        ],
+                        [
+                            -108.402614594,
+                            36.78997223
+                        ],
+                        [
+                            -108.412828445,
+                            36.798151416
+                        ],
+                        [
+                            -108.423213959,
+                            36.792240495
+                        ],
+                        [
+                            -108.414459229,
+                            36.789628548
+                        ],
+                        [
+                            -108.412399292,
+                            36.784954314
+                        ],
+                        [
+                            -108.416862488,
+                            36.778904883
+                        ],
+                        [
+                            -108.412227631,
+                            36.77175494
+                        ],
+                        [
+                            -108.410511017,
+                            36.766667074
+                        ],
+                        [
+                            -108.403301239,
+                            36.767904694
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "properties": {
+                "name": "United States, New Mexico Sample",
+                "elevation": 1600.0,
+                "type": "coal_mine",
+                "country": "United States",
+                "operator": null,
+                "basin": null,
+                "production_type": "Coal",
+                "terrain": "Shrubland",
+                "area": 3286414.92887598
+            },
+            "id": 2,
+            "bbox": null
+        }
+    ],
+    "bbox": null
+}
